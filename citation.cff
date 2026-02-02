@@ -1,0 +1,14 @@
+GitHub **legge automaticamente** questo file.
+
+👉 Crea `CITATION.cff` con questo contenuto:
+
+```yaml
+cff-version: 1.2.0
+title: "Primary pulse production and protein ingredient trade (2020–2024)"
+message: "If you use this repository, please cite it as below."
+authors:
+  - family-names: Dall'Asta
+    given-names: Chiara
+version: 1.0.0
+date-released: 2026-02-02
+license: CC-BY-4.0
